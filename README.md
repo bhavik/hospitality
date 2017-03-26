@@ -1,1 +1,2 @@
-Hospitality App - A quick way to build up your hospitality portfolio
+Hospitality App - A quick way to build up your hospitality portfolio.
+Try it.
